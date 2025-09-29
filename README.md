@@ -12,12 +12,12 @@
 
 **Lead Engineer** with **7.5+ years** of experience in building scalable solutions and leading technical teams. Based in **Gurgaon**, I'm passionate about creating innovative software that makes a difference.
 
-- 🎯 **Role**: Lead Engineer specializing in full-stack development and AI integration
+- 🎯 **Role**: Lead Engineer specializing in web technologies and automation
 - 💼 **Experience**: 7.5 years in software engineering with leadership responsibilities
-- 🌟 **Expertise**: JavaScript, .NET, React, Django, AWS, SQL, and System Design
-- 🔧 **Focus Areas**: Full-stack development, cloud architecture, AI integration, and scalable systems
-- 📚 **Learning**: Agentic AI, RAG systems, advanced machine learning, and engineering leadership
-- 🎵 **Interests**: Agentic AI development, system architecture, cricket/IPL, music (Ritviz tracks), and technology innovation
+- 🌟 **Expertise**: JavaScript, TypeScript, React, Node.js, .NET, SQL, AWS, Django, System Design, and Team Leadership
+- 🔧 **Focus Areas**: Full-stack development, automation scripting, AI integration, scalable architectures, and advanced software practices
+- 📚 **Learning**: AI/ML, system design, agentic AI like Retrieval-Augmented Generation (RAGs), advanced JavaScript patterns, and leadership skills
+- 🎵 **Interests**: Technology innovation, cricket/IPL, music (especially Ritviz tracks), agentic AI frameworks such as RAGs, continuous learning
 
 ---
 
@@ -40,30 +40,22 @@
 
 ## 🛠️ Technology Stack
 
-### Backend & Frameworks
+### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Databases & Cloud
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### AI & Advanced Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D4AA?style=for-the-badge&logo=openai&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -73,17 +65,15 @@
 <summary><b>🔍 Repository Analysis</b></summary>
 
 ### Repository Breakdown
-- **📚 Total Repositories**: 35 public + 36 private = **71 total**
 - **⭐ Public Repositories**: Focus on web development, automation, and open-source contributions
-- **🔒 Private Projects**: Extensive professional development work
-- **👥 Community**: 39 followers, following 116 developers
-- **🌟 Activity**: Active since 2013, consistent contributor with 2,132+ contributions
+- **👥 Community**: Active contributor with consistent engagement
+- **🌟 Activity**: Active since 2013, continuous development and learning
 
 ### Technology Distribution
-- **Primary**: JavaScript/TypeScript ecosystem, .NET development
-- **Secondary**: Python, SQL, cloud technologies
-- **Emerging**: Agentic AI, RAG systems, advanced ML implementations
-- **Architecture**: Full-stack development with cloud-native practices
+- **Primary**: JavaScript/TypeScript ecosystem
+- **Secondary**: React, .NET, Django, AWS
+- **Emerging**: Agentic AI like Retrieval-Augmented Generation (RAGs), AI/ML projects
+- **Architecture**: Full-stack development with modern practices
 
 </details>
 
@@ -91,19 +81,18 @@
 <summary><b>🎯 Starred Repositories Analysis</b></summary>
 
 ### Learning Focus Areas
-- **🤖 AI/ML**: Deep Learning, AutoGPT, Generative AI guides, RAG implementations
-- **🏗️ System Design**: Database internals, scalable architectures, cloud patterns
-- **📚 Professional Growth**: Technical leadership, engineering management
-- **🔧 Development Tools**: Modern frameworks, testing strategies, DevOps practices
-- **🌐 Web Technologies**: React, TypeScript, full-stack development patterns
+- **🤖 AI/ML & Agentic AI**: Deep Learning, AutoGPT, Generative AI, RAGs
+- **🏗️ System Design**: Database internals, scalable architectures
+- **📚 Professional Growth**: CTO resources, consulting handbooks
+- **🔧 Development Tools**: SaaS boilerplates, testing frameworks
+- **🌐 Web Technologies**: React, TypeScript, modern development practices
 
 ### Knowledge Interests
-- Agentic AI and autonomous systems
-- Retrieval-Augmented Generation (RAG) architectures
-- Vector databases and semantic search
-- Large Language Models implementation
-- Cloud-native system design
-- Modern software engineering practices
+- Vector databases (pgvector)
+- Large Language Models (Llama3 implementation)
+- Professional programming practices
+- System architecture and design patterns
+- Modern full-stack development stacks
 
 </details>
 
@@ -112,17 +101,17 @@
 ## 🌟 Professional Highlights
 
 ### Leadership & Experience
-- 🎯 **Lead Engineer** with 7.5+ years in enterprise software development
-- 🚀 **Technical Leadership**: Architecting solutions and mentoring engineering teams
-- 💡 **Innovation Focus**: Integrating AI/ML and agentic systems into production workflows
-- 📈 **Continuous Growth**: Advancing in system design, AI technologies, and team leadership
+- 🎯 **Lead Engineer** role with 7.5+ years in the industry
+- 🚀 **Technical Leadership**: Guiding teams and architectural decisions
+- 💡 **Innovation Focus**: Integrating AI/ML and agentic AI into development workflows
+- 📈 **Continuous Learning**: Staying current with emerging technologies
 
 ### Key Strengths
-- **Full-Stack Architecture**: End-to-end system design and implementation
-- **Cloud Technologies**: Scalable AWS-based solutions and microservices
-- **AI Integration**: Implementing RAG systems and agentic AI workflows
-- **Database Design**: Complex SQL and NoSQL database architectures
-- **Team Leadership**: Technical mentoring and cross-functional collaboration
+- **Full-Stack Development**: End-to-end application development
+- **System Architecture**: Designing scalable and maintainable systems
+- **Team Leadership**: Mentoring and guiding development teams
+- **Process Automation**: Creating efficient development workflows
+- **Technology Integration**: Leveraging modern tools and frameworks
 
 ---
 
@@ -136,36 +125,15 @@
 
 ---
 
-## 🤝 Professional Interests
+## 🤝 Let's Connect
 
 <div align="center">
 
-### I'm passionate about discussing:
-- 🏗️ **System Architecture** and scalable design patterns
-- 🤖 **Agentic AI & RAG Systems** in production environments
-- 👥 **Technical Leadership** and engineering team excellence
-- 🚀 **Emerging Technologies** and software architecture trends
-- 💼 **Professional Development** and career advancement in tech
+### I'm always interested in discussing:
+- 🔧 **System Architecture** and scalable design patterns
+- 🤖 **AI/ML Integration** and agentic AI in web applications
+- 👥 **Technical Leadership** and team management
+- 🚀 **Emerging Technologies** and industry trends
+- 💼 **Career Growth** and professional development
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported." - Jeff Atwood
-
-**Welcome to my GitHub profile!** Feel free to explore my repositories and connect for technical discussions.
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
-<!-- 
-████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ███████╗ ██████╗ ██████╗     ██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗ 
-╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝    ██╔════╝██╔═══██╗██╔══██╗    ██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝ 
-   ██║   ███████║███████║██╔██╗ ██║█████╔╝     █████╗  ██║   ██║██████╔╝    ██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗
-   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗     ██╔══╝  ██║   ██║██╔══██╗    ╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║
-   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗    ██║     ╚██████╔╝██║  ██║     ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝      ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
--->
