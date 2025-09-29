@@ -14,9 +14,9 @@
 
 - 🎯 **Role**: Lead Engineer specializing in web technologies and automation
 - 💼 **Experience**: 7.5 years in software engineering with leadership responsibilities
-- 🌟 **Expertise**: JavaScript, TypeScript, React, Node.js, .NET, SQL, AWS, Django, System Design, and Team Leadership
-- 🔧 **Focus Areas**: Full-stack development, automation scripting, AI integration, scalable architectures, and advanced software practices
-- 📚 **Learning**: AI/ML, system design, agentic AI like Retrieval-Augmented Generation (RAGs), advanced JavaScript patterns, and leadership skills
+- 🌟 **Expertise**: C#, Python, JavaScript, TypeScript, .NET, Django, React, AWS, and System Design
+- 🔧 **Focus Areas**: Full-stack development, data processing, cloud architecture, and scalable systems
+- 📚 **Learning**: AI/ML, system design, agentic AI like Retrieval-Augmented Generation (RAGs), advanced programming patterns, and leadership skills
 - 🎵 **Interests**: Technology innovation, cricket/IPL, music (especially Ritviz tracks), agentic AI frameworks such as RAGs, continuous learning
 
 ---
@@ -40,22 +40,30 @@
 
 ## 🛠️ Technology Stack
 
-### Languages & Frameworks
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+**Relational:** ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**NoSQL:** ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Data Processing
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -70,10 +78,10 @@
 - **🌟 Activity**: Active since 2013, continuous development and learning
 
 ### Technology Distribution
-- **Primary**: JavaScript/TypeScript ecosystem
-- **Secondary**: React, .NET, Django, AWS
-- **Emerging**: Agentic AI like Retrieval-Augmented Generation (RAGs), AI/ML projects
-- **Architecture**: Full-stack development with modern practices
+- **Primary**: C#/.NET, Python, JavaScript/TypeScript ecosystem
+- **Secondary**: React, Django, Flask, AWS services
+- **Emerging**: Agentic AI like Retrieval-Augmented Generation (RAGs), data processing
+- **Architecture**: Full-stack development with cloud-native practices
 
 </details>
 
